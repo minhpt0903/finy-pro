@@ -1,8 +1,8 @@
-version: 0.1.0-rc.8
+version: 0.1.0-rc.9
 files:
-  - url: https://github.com/minhpt0903/finy-pro/releases/download/v0.1.0-rc.8/FinyPro-Setup-0.1.0-rc.8.exe
-    sha512: 9qG+lCsMNgtx6VpLk6/eXshrc7FW6pYhAeed5cx7k0OkL4SgzuHveKzLcH/cM8llrxA5RiARbbscMTUv+w5zdg==
-    size: 85917786
-path: https://github.com/minhpt0903/finy-pro/releases/download/v0.1.0-rc.8/FinyPro-Setup-0.1.0-rc.8.exe
-sha512: 9qG+lCsMNgtx6VpLk6/eXshrc7FW6pYhAeed5cx7k0OkL4SgzuHveKzLcH/cM8llrxA5RiARbbscMTUv+w5zdg==
-releaseDate: '2026-04-16T05:11:03.903Z'
+  - url: https://github.com/minhpt0903/finy-pro/releases/download/v0.1.0-rc.9/FinyPro-Setup-0.1.0-rc.9.exe
+    sha512: cJo5AIzucu0ay04ocGLqRsh2fjlBgucH7DJpdsyDjo9qAw4Rrw5AWDdbJ8y91P3kec70hk3PTy9RBraaK2TUow==
+    size: 85917691
+path: https://github.com/minhpt0903/finy-pro/releases/download/v0.1.0-rc.9/FinyPro-Setup-0.1.0-rc.9.exe
+sha512: cJo5AIzucu0ay04ocGLqRsh2fjlBgucH7DJpdsyDjo9qAw4Rrw5AWDdbJ8y91P3kec70hk3PTy9RBraaK2TUow==
+releaseDate: '2026-04-16T06:56:10.650Z'
