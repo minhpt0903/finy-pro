@@ -1,4 +1,4 @@
-version: version: 0.1.0-rc.3
+version: 0.1.0-rc.3
 files:
   - url: https://github.com/minhpt0903/finy-pro/releases/download/v0.1.0-rc.3/FinyPro-Setup-0.1.0-rc.3.exe
     sha512: y+3gAo6u+QIue/m17XwOZoatjTwIRtCXrwjjCS/9nidTWgg01k4IBP49uM6wsxNXMRVXBwnc2ZKxOAJC0wjZyw==
