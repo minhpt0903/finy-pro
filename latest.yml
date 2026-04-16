@@ -1,0 +1,8 @@
+version: 0.0.2
+files:
+  - url: https://github.com/minhpt0903/finy-pro/releases/download/untagged-a6ab350f918a36618a23/FinyPro-Setup-0.0.2.exe
+    sha512: J6AKo8S1kpnoNfeL6QcwicJlmSXv/eKKn641Nuj/9QLhylSsXhpfBS+jj1+cUMWZttTMuwcJ/+7hqxc/cn7+DA==
+    size: 85916763
+path: https://github.com/minhpt0903/finy-pro/releases/download/untagged-a6ab350f918a36618a23/FinyPro-Setup-0.0.2.exe
+sha512: J6AKo8S1kpnoNfeL6QcwicJlmSXv/eKKn641Nuj/9QLhylSsXhpfBS+jj1+cUMWZttTMuwcJ/+7hqxc/cn7+DA==
+releaseDate: '2026-04-16T03:13:00.842Z'
